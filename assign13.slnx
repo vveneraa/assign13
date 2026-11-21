@@ -3,7 +3,7 @@
     <Platform Name="Any CPU" />
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="assign13/assign13.vbproj">
+  <Project Path="assign13/assign13.vbproj" Id="ad0a3110-e74a-435b-b738-3ca36e4cf3bf">
     <Platform Solution="*|x64" Project="x64" />
   </Project>
 </Solution>
